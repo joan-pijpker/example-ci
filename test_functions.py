@@ -10,6 +10,7 @@ def test_add():
 def test_subtract():
     assert subtract(2, 3) == -1
 
+    # test multiply function
 def test_multiply():
     assert multiply(2, 3) == 6
 
